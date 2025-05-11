@@ -107,7 +107,7 @@ const Index = () => {
       <HistorySection 
         id="military" 
         title="Подготовка военных специалистов"
-        imageUrl="/public/images/2.png"
+        imageUrl="https://i.ibb.co/3yDCS4Lh/2.png"
         imageSide="left"
       >
         <p>
