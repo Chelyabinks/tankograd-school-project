@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
       <div className="relative h-full container mx-auto flex flex-col items-center justify-center text-center px-4">
         <h1 className="text-4xl md:text-6xl text-white font-bold mb-4 animate-fade-in drop-shadow-lg">
           Челябинск в годы<br />
-          <span className="text-soviet-red bg-black bg-opacity-30 px-4 py-1">Великой Отечественной</span>
+          <span className="text-soviet-red bg-black bg-opacity-30 px-4 py-1">Великой Отечественной войны</span>
         </h1>
         
         <div className="w-32 h-1 bg-soviet-red mb-6" />
